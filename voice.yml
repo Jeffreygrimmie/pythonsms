@@ -1,0 +1,7 @@
+user:
+  login: sid
+  password: auth token
+  phonenumber: +15552815555
+  myphonenumber: +15559905555
+
+#https://www.fullstackpython.com/blog/send-sms-text-messages-python.html
